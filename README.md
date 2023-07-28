@@ -32,9 +32,9 @@ Fullstack web developer
 </p>
 
 
+### My projects
 
-### Badges
+ - [SimpleString blog📖](https://github.com/simpleString/simpleBlog-next) - Fullstack Next.js blog.
+ - [Nature forms🌳](https://github.com/simpleString/kristina_diplom) - Analogue google form for studying nature.
+ - [Meme backend🤟](https://github.com/simpleString/meme-backend) - Backend for meme dating app. 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/simpleString/simpleBlog-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=simpleString&repo=simpleBlog-next&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
