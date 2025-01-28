@@ -1,19 +1,14 @@
-Hi 👋 My name is Dmitry Volkov
+Dmitry Volkov (simpleString)
 ==============================
 
-Fullstack web developer
+Fullstack web developer🚀
 -----------------------
 
-* 🌍  I'm based in Krasnoyarsk, RU.
+* 🌍  Russia, (RU, EN)
 * ✉️  You can contact me at [vdmitry.log@gmail.com](mailto:vdmitry.log@gmail.com)
-* 🚀  I'm currently working on [SimpleString blog](http://simplestring.xyz)
-* 🧠  I'm learning All things about web dev
-* 🤝  I'm open to collaborating on projects😃
-* ⚡  I want to make software that helps people communicate with each other🤝
+
 
 ### Skills
-
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -31,9 +26,12 @@ Fullstack web developer
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+### Stuff I make
+   - [Codixie📒](https://codixie.tech/) - Codixie is Secure and Easy Code Snippet Storage for Developers.
+   - [Deno-board🦕​](https://deno-board.simplestring.xyz/) - [Repo](https://github.com/simpleString/deno-board) - Offline first (with sync) markdown board for save random stuff.
+   - [87keysstudio📱​](https://play.google.com/store/apps/dev?id=7561449823078030655) - Create games and app for mobile!
 
-### My projects
-
+### Code I made
  - [SimpleString blog📖](https://github.com/simpleString/simpleBlog-next) - Fullstack Next.js blog.
  - [Nature forms🌳](https://github.com/simpleString/kristina_diplom) - Analogue google form for studying nature.
  - [Meme backend🤟](https://github.com/simpleString/meme-backend) - Backend for meme dating app. 
